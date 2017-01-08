@@ -1,5 +1,5 @@
 # UITextFieldDatePicker
-This text field date picker helps you open date picker inside **UITextField** without a single line line of code. You will not able handle ***delegate*** of **UITextField** with **UITextFieldDatePicker**.
+This text field date picker helps you open date picker inside **UITextField** without a single line of code. You will not able handle ***delegate*** of **UITextField** with **UITextFieldDatePicker**.
 
 ![Image](sample.png)
 
@@ -61,7 +61,7 @@ self.textFieldDate.showDefaultDate()
 To close date picker just call below method
 
 ```swift
-friutTextField.closePicker()
+textFieldDate.closePicker()
 ```
 
 ##Licence
