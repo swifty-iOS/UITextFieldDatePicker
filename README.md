@@ -41,8 +41,8 @@ textFieldDate.setRightButton("Done", style: .default) {
             self.textFieldDate.closePicker()
         }
                 
-friutTextField.setLeftButton("Cancel", style: .close) {
-            self.textField3.showDefaultString()
+textFieldDate.setLeftButton("Cancel", style: .close) {
+            textFieldDate.showDefaultString()
         }
 ```
 
